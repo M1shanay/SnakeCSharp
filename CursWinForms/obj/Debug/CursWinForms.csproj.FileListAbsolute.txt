@@ -1,0 +1,10 @@
+A:\Проеты VS\CursWinForms\CursWinForms\bin\Debug\CursWinForms.exe.config
+A:\Проеты VS\CursWinForms\CursWinForms\bin\Debug\CursWinForms.exe
+A:\Проеты VS\CursWinForms\CursWinForms\bin\Debug\CursWinForms.pdb
+A:\Проеты VS\CursWinForms\CursWinForms\obj\Debug\CursWinForms.csproj.AssemblyReference.cache
+A:\Проеты VS\CursWinForms\CursWinForms\obj\Debug\CursWinForms.Properties.Resources.resources
+A:\Проеты VS\CursWinForms\CursWinForms\obj\Debug\CursWinForms.csproj.GenerateResource.cache
+A:\Проеты VS\CursWinForms\CursWinForms\obj\Debug\CursWinForms.csproj.CoreCompileInputs.cache
+A:\Проеты VS\CursWinForms\CursWinForms\obj\Debug\CursWinForms.exe
+A:\Проеты VS\CursWinForms\CursWinForms\obj\Debug\CursWinForms.pdb
+A:\Проеты VS\CursWinForms\CursWinForms\obj\Debug\CursWinForms.Form.resources

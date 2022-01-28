@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CursWinForms.Game">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgMAABACAAAAAAAICAEBAACIAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.Map">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAQQAEQAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.MapControl">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAEAAAAAAAABAKAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>MapControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.FormControl">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAAAACAAQAAAAAAAAAAAAAAQAQAAgAAAgAAAA=</HashCode>
+      <FileName>FormControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.Difficulty">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Difficulty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.FindDifference">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAABAAAAAIA=</HashCode>
+      <FileName>FindDifference.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.Food">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIIAAAAAAAAAAAAIAAAAAAAgAABgAAAAYAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.FoodRed">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.FoodBlue">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.Rools">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAJAABGQAAAAAAQAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Rools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.SnakeLocationControl">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>SnakeLocationControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.SnakeMoveSys">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAEAAAA=</HashCode>
+      <FileName>SnakeMoveSys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.SnakePlayer">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgEIAAAAAACAAAAAAAGAAIAAAAAAAAgAEACAA=</HashCode>
+      <FileName>SnakePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.UpdateSys">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="CursWinForms.UpdateSys.Event" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UpdateSys.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQIUAAAAAAAAAAAAAAAAAAAAAAAAAAAAJACAAAAkQA=</HashCode>
+      <FileName>UpdateSys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CursWinForms.Form">
+    <Position X="1" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAABAAAACAAAACAAAIAAAAAEAAAgAABAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
